@@ -9,3 +9,4 @@ static_code_analysis: false
 image_scan: false
 image_signing: false
 generate_sboms: false
+unit_tests: false
